@@ -83,12 +83,12 @@
     "sinon": "^2.3.1",
     "style-loader": "^0.16.1",
     "webpack": "^2.2.1",
-    "webpack-bundle-analyzer": "^2.10.0",
-    "webpack-dev-server": "^2.4.1"
+    "webpack-bundle-analyzer": "^3.3.2",
+    "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
     "auth0-js": "^9.2.1",
-    "axios": "^0.16.1",
+    "axios": "^0.18.1",
     "babel-plugin-add-react-displayname": "0.0.5",
     "bootstrap": "4.0.0-alpha.6",
     "classnames": "^2.2.5",
